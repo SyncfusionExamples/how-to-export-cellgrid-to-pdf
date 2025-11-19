@@ -1,4 +1,4 @@
-# How to export UWP CellGrid to pdf
+# How to Export UWP CellGrid to PDF?
 
 This sample demonstrates how to export [UWP CellGrid](https://help.syncfusion.com/uwp/cellgrid/overview) (SfCellGrid) to PDF.
 
